@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning computer science in Budapest.
 - 💞️ I’m looking to collaborate on new projects
-- 📫 thebird97.com
+- 📫[thebird97.com]: thebird97.com
